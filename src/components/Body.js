@@ -5,7 +5,7 @@ const Body = () => {
   return (
     <div className="card">
         <h3>
-            For those who are bold enough to spend their crypto tokens recklessly...
+            For those who are bold enough to spend their crypto tokens without limitations...
         </h3>
         <Start />
         <Button color = "#20c744" text="join us"/>
