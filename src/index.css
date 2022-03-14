@@ -25,12 +25,12 @@ font-family: "Poppins", sans-serif;
 display: inline-block;
 text-transform: uppercase;
 font-weight: bolder;
-background-color: #0d157a;
+background-color: #2d3092;
 
 }
 
 .btn:hover {
-  box-shadow: 0.25rem 0.25rem #02c25c, -0.25rem -0.25rem; 
+  box-shadow: 0.25rem 0.25rem #39b549, -0.25rem -0.25rem; 
 }
 
 .card{
@@ -42,27 +42,27 @@ background-color: #0d157a;
   transition: 0.3s;
   border-radius: 5px;
   padding: 5px 10px;
-  color: #0d157a;
+  color: #2d3092;
 }
 
 .add-form {
   margin: auto;
   text-align: center;
   padding: 20px;
-  color: #0d157a;
+  color: #2d3092;
 }
 
 .form-field {
   width: 100%;
   margin: 8px 0;
-  border: 1px solid #0d157a;
+  border: 1px solid #2d3092;
   border-radius: 4px;
   padding-left: 15px;
   font-family: "Poppins", sans-serif;
 }
 
 .form-field:focus {
-  border:2px solid #02c25c;
+  border:2px solid #39b549;
 }
 
 .card:hover {
@@ -90,7 +90,7 @@ background-color: #0d157a;
     font-size: 30px;
     border-radius: 8px;
     padding: 4px 16px;
-    box-shadow: 0.25rem 0.25rem #02c25c, 0.25rem 0.25rem; 
+    box-shadow: 0.25rem 0.25rem #39b549, 0.25rem 0.25rem; 
   }
   .add-form {
     width: 65%;
@@ -115,7 +115,7 @@ background-color: #0d157a;
     font-size: 15px;
     border-radius: 5px;
     padding: 5px 10px;
-    box-shadow: 0.15rem 0.15rem #02c25c, 0.15rem 0.15rem; 
+    box-shadow: 0.15rem 0.15rem #39b549, 0.15rem 0.15rem; 
   }
   .add-form {
     width: 85%;
