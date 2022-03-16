@@ -1,4 +1,3 @@
-import Button from "./Button"
 import Start from "./Start"
 
 const Body = () => {
@@ -8,7 +7,6 @@ const Body = () => {
             For those who are bold enough to spend their crypto tokens without limitations...
         </h3>
         <Start />
-        <Button color = "#20c744" text="join us"/>
         <h4>
             ...and as for the rest of you, sorry, we cannot accomodate you.
         </h4>
