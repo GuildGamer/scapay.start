@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className="footer">
-        @copyrights scapay
+        ©Scapay 2021
     </div>
   )
 }

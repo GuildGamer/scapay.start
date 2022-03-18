@@ -2,8 +2,12 @@ import propTypes from 'prop-types';
 
 const Button = ({text}) => {
 
-    return <button className="btn">{text}</button>
-
+    return (
+    <button 
+     className="btn">
+            {text}
+        </button>
+        )
 }
 
 Button.defaultProps = {
@@ -12,6 +16,7 @@ Button.defaultProps = {
 
 Button.propTypes = {
     text: propTypes.string,
+    onClick: propTypes.func,
 }
 
 
