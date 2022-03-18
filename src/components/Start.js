@@ -41,8 +41,8 @@ const Start = () => {
                 var message =  ""
                 var type = ""
                 if (res.data.success === true && res.data.error === false){
-                    title = "Wonderful!"
-                    message =  "Congrats, Check your email for a Scapay welcome."
+                    title = "Congrats!"
+                    message =  "Check your email for a Scapay welcome."
                     type = "success"
                 } else if(res.data.msg === "email already exists"){
                     title = "OOPS!"

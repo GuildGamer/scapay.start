@@ -8,7 +8,7 @@ const Body = () => {
         </h3>
         <Start />
         <h4>
-            ...and as for the rest of you, sorry, we cannot accomodate you.
+            ...start here.
         </h4>
     </div>
   )
