@@ -1,6 +1,6 @@
-###Scapay waitlist frontend
-##Built with Reactjs
+### Scapay waitlist frontend
+## Built with Reactjs
 
-###Live
+### Live
 https://scapay.netlify.app/
 
